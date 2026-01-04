@@ -108,7 +108,6 @@ Output:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 </p>
-<!-- ===================== FOOTER END ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
